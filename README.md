@@ -1,2 +1,3 @@
-# TheGreattest
+# MAZE
+escape from the maze
 
